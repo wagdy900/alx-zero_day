@@ -2,7 +2,7 @@
 
 A brief description of my project goes here.
 
-![Project Logo]([https://www.logolynx.com/images/logolynx/99/9960052cf2f5d09d075ab2c1fec5f2ea.jpeg])
+![Project Logo](https://www.logolynx.com/images/logolynx/99/9960052cf2f5d09d075ab2c1fec5f2ea.jpeg)
 ## Table of Contents
 
 - [Project Name](#project-name)
