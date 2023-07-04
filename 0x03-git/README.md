@@ -1,6 +1,6 @@
 # Project Name
 
-A brief description of your project goes here.
+A brief description of my project goes here.
 
 ![Project Logo](/path/to/logo.png)
 
@@ -19,7 +19,7 @@ A brief description of your project goes here.
 
 ## About
 
-Provide a detailed overview of your project here. Explain what it does, why it is useful, and any other relevant information.
+Provide a detailed overview of my project here. Explain what it does, why it is useful, and any other relevant information.
 
 ## Getting Started
 
